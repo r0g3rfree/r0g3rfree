@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @r0g3rfree
+- 👋 Hi, I’m Roger Freeman
 - 👀 I’m interested in ... Coding
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... open source projects
